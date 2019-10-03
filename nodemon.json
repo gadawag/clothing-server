@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_URI": "mongodb+srv://gadawag:qwe123QWE123a@cluster0-5u2s4.mongodb.net/gadawag-clothing-dev?retryWrites=true",
+    "TOKEN_KEY": "clothingservertokenkey"
+  }
+}
